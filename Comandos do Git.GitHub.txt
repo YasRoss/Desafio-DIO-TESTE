@@ -1,0 +1,14 @@
+Alguns comandos do Git para não esquecer.
+(vou acrescentar mais conforme vou estudando)
+
+> git add - Adicionar conteúdo de arquivo ao índice.
+
+> git-branch - Listar, criar ou excluir ramificações.
+
+> git-checkout - Alternar ramificações ou restaurar arquivos de árvore de trabalho.
+
+> git-citool - Alternativa gráfica ao git-commit.
+
+> git-clean - Remover arquivos não rastreados da árvore de trabalho.
+
+> git-cherry-pick - Aplicar as alterações introduzidas por algumas confirmações existentes. 
